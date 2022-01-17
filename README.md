@@ -7,4 +7,4 @@ Python 2.7 and the python packages are listed in requirements.txt
 run the following command in the terminal
 pip install -r requirements.txt
 ### Demo Video
-https://www.youtube.com/watch?v=Vtxzij5vqWw
+https://youtu.be/67bpN1pb1bA
